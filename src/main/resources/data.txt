@@ -1,0 +1,5 @@
+United Arab Emirates, Dirhams, AED, 0.21
+Australia, Dollars, AUD, 0.51
+Bosnia and Herzegovina, Convertible Marka, BAM, 0.44
+Bulgaria, Leva, BGN, 0.44
+United Kingdom, Pounds, GBP, 1
